@@ -11,7 +11,7 @@ Outside of work: late-night coding, camping in our **Airstream**, **3D printing*
 </td>
 <td width="240" align="center" valign="top">
 
-<img src="assets/me.jpg" width="220" height="220" alt="Joey" />
+<img src="assets/me.jpg" width="220" alt="Joey" />
 
 </td>
 </tr>
