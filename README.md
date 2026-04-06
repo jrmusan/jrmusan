@@ -1,5 +1,7 @@
 ## Hi there, I'm Justin 👋
 
+<img src="https://drive.google.com/uc?export=view&id=1nXHytm3d-N0u6SiWmHKnX4Lov_j01Ogk" alt="Profile image" width="300" align="right" />
+
 Backend Software Engineer with expertise in **Python**, **FastAPI**, **DevOps**, and cloud technologies. Passionate about delivering quality software and team collaboration. Currently working at **Zoro.com**, developing high-performance e-commerce solutions.
 
 Outside of work, I enjoy late night coding sessions, and camping in our Airstream. Also super passionate about **3D printing** and love solving everyday problems with **CAD**.
