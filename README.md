@@ -16,6 +16,13 @@ Python · FastAPI · REST APIs · SQL · PostgreSQL · Redis
 **DevOps & cloud**  
 GCP · Docker · Kubernetes · CI/CD · GitHub Actions · Terraform
 
+## Projects
+
+- **[Foodu8.com](https://foodu8.com)**
+- **[simple-ai-commit](https://github.com/jrmusan/simple-ai-commit)** — Minimal bash CLI that suggests git commit messages from staged changes via [OpenRouter](https://openrouter.ai/)
+- **[mediapipe_gesture_recognition](https://github.com/jrmusan/mediapipe_gesture_recognition)** — Straightforward Python demo: MediaPipe GestureRecognizer with live camera input
+- **[hand-gesture-tv-remote](https://github.com/jrmusan/hand-gesture-tv-remote)** — Control a Samsung TV with hand gestures (MediaPipe); WIP toward a Raspberry Pi–friendly setup
+
 ## What I'm working on
 
 - High-performance e-commerce backend services at **Zoro.com**
