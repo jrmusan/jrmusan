@@ -1,42 +1,46 @@
-## Hi there, I'm Justin 👋
+# Hi there, I'm Joey 👋
 
-<img src="https://drive.google.com/uc?export=view&id=1nXHytm3d-N0u6SiWmHKnX4Lov_j01Ogk" alt="Profile image" width="300" align="right" />
 
-Backend Software Engineer with expertise in **Python**, **FastAPI**, **DevOps**, and cloud technologies. Passionate about delivering quality software and team collaboration. Currently working at **Zoro.com**, developing high-performance e-commerce solutions.
+|     |
+| --- |
+|     |
 
-Outside of work, I enjoy late night coding sessions, and camping in our Airstream. Also super passionate about **3D printing** and love solving everyday problems with **CAD**.
 
----
+**Backend software engineer** with a focus on **Python**, **FastAPI**, **DevOps**, and cloud systems. I care about shipping solid software and working well with teams. Right now I'm at **Zoro.com**, building high-performance e-commerce backend services.
 
-### 🛠️ Tech Stack & Skills
+Outside of work: late-night coding, camping in our **Airstream**, **3D printing**, and fixing everyday problems with **CAD**.
 
-**Languages & Frameworks**
-- 🐍 Python · FastAPI · REST APIs
-- 🗄️ SQL · PostgreSQL · Redis
 
-**DevOps & Cloud**
-- ☁️ AWS · GCP
-- 🐳 Docker · Kubernetes
-- ⚙️ CI/CD · GitHub Actions · Terraform
 
-**Tools & Practices**
-- 🔁 Agile / Scrum
-- 🧪 Test-Driven Development
-- 📦 Microservices Architecture
+
+
+
+
+
 
 ---
 
-### 🔭 What I'm Working On
+## Tech stack
+
+**Languages & frameworks**  
+Python · FastAPI · REST APIs · SQL · PostgreSQL · Redis
+
+**DevOps & cloud**  
+ GCP · Docker · Kubernetes · CI/CD · GitHub Actions · Terraform
+
+---
+
+## What I'm working on
 
 - High-performance e-commerce backend services at **Zoro.com**
-- Late night side projects (you know how it is 🌙)
-- The next 3D printed solution to a problem I didn't know I had
+- Side projects after hours
+- The next 3D-printed fix for a problem I didn’t know I had
 
 ---
 
-### ⚡ Fun Facts
+## Fun facts
 
-- 🚐 We road trip in an **Airstream** — there's nothing better than waking up somewhere new
-- 🖨️ I'm obsessed with **3D printing** and designing parts in CAD to solve real-world problems
-- 🌙 My best code gets written after midnight
-- ☕ Fueled by coffee and curiosity
+- Love to travel the country in our 16ft Airstream — waking up somewhere new never gets old
+- I’m deep into **3D printing** love designing things to solve real world problems
+- My best commits tend to happen after midnight
+
