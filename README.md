@@ -1,4 +1,4 @@
-## Hi there, I'm Justin 👋
+## Hi there, I'm Joey 👋
 
 Backend Software Engineer with expertise in **Python**, **FastAPI**, **DevOps**, and cloud technologies. Passionate about delivering quality software and team collaboration. Currently working at **Zoro.com**, developing high-performance e-commerce solutions.
 
