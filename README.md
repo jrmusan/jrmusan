@@ -10,7 +10,7 @@ Outside of work: late-night coding, camping in our **Airstream**, **3D printing*
 Python · FastAPI · REST APIs · SQL · PostgreSQL · Redis
 
 **DevOps & cloud**  
-☁️ GCP · Docker · Kubernetes · CI/CD · GitHub Actions · Terraform
+GCP · Docker · Kubernetes · CI/CD · GitHub Actions · Terraform
 
 ## ✨ Projects
 
@@ -18,6 +18,7 @@ Python · FastAPI · REST APIs · SQL · PostgreSQL · Redis
 - 🤖 **[simple-ai-commit](https://github.com/jrmusan/simple-ai-commit)** — Minimal bash CLI that suggests git commit messages from staged changes via [OpenRouter](https://openrouter.ai/)
 - ✋ **[mediapipe_gesture_recognition](https://github.com/jrmusan/mediapipe_gesture_recognition)** — Straightforward Python demo: MediaPipe GestureRecognizer with live camera input
 - 📺 **[hand-gesture-tv-remote](https://github.com/jrmusan/hand-gesture-tv-remote)** — Control a Samsung TV with hand gestures (MediaPipe); WIP toward a Raspberry Pi–friendly setup
+- ⛺ **Campsite scanner** - Custom script ran on a Raspberry Pi to scan for campsite cancelations every 30 secs. Sends an email and push notification when one is found. I'm not sharing this one 😉 
 
 ## 🔭 What I'm working on
 
